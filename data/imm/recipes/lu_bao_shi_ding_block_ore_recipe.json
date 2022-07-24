@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "imm:lu_bao_shi_ding_block"
+    }
+  ],
+  "result": {
+    "item": "imm:lu_bao_shi_ding_ingot",
+    "count": 9
+  }
+}

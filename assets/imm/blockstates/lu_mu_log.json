@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "imm:block/lu_mu_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "imm:block/lu_mu_log"
+    },
+    "axis=z": {
+      "model": "imm:block/lu_mu_log",
+      "x": 90
+    }
+  }
+}

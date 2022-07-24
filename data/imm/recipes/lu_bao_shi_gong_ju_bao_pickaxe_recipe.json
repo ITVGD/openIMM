@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald_block"
+    },
+    "1": {
+      "item": "minecraft:emerald_block"
+    },
+    "2": {
+      "item": "minecraft:emerald_block"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "imm:lu_bao_shi_gong_ju_bao_pickaxe",
+    "count": 1
+  }
+}

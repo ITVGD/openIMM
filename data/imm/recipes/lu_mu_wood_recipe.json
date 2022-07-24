@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "imm:lu_mu_log"
+    },
+    "1": {
+      "item": "imm:lu_mu_log"
+    },
+    "2": {
+      "item": "imm:lu_mu_log"
+    },
+    "3": {
+      "item": "imm:lu_mu_log"
+    }
+  },
+  "result": {
+    "item": "imm:lu_mu_wood",
+    "count": 3
+  }
+}

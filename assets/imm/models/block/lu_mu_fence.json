@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "imm:blocks/lu_mu__planks",
+    "particle": "imm:blocks/lu_mu__planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "imm:blocks/lu_bao_shi_ding__ore_block",
+    "particle": "imm:blocks/lu_bao_shi_ding__ore_block"
+  }
+}

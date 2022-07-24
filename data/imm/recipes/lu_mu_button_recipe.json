@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "imm:lu_mu_wood"
+    }
+  ],
+  "result": {
+    "item": "imm:lu_mu_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "imm:block/lu_mu_pressure_plate"
+    },
+    "powered=true": {
+      "model": "imm:block/lu_mu_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "imm:lu_mu_wood"
+    },
+    "3": {
+      "item": "imm:lu_mu_wood"
+    },
+    "4": {
+      "item": "imm:lu_mu_wood"
+    },
+    "6": {
+      "item": "imm:lu_mu_wood"
+    },
+    "7": {
+      "item": "imm:lu_mu_wood"
+    },
+    "8": {
+      "item": "imm:lu_mu_wood"
+    }
+  },
+  "result": {
+    "item": "imm:lu_mu_stairs",
+    "count": 4
+  }
+}

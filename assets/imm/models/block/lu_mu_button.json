@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "imm:blocks/lu_mu__planks"
+  }
+}

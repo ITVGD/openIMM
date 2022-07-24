@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "imm:lu_bao_shi_ding_ore",
+    "imm:lu_bao_shi_ding_block",
+    "imm:zuan_shi_ding_ore",
+    "imm:zuan_shi_ding_block"
+  ]
+}

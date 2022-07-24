@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1.96,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "imm:lu_bao_shi_ding_ore"
+  },
+  "result": "imm:lu_bao_shi_ding_ingot"
+}

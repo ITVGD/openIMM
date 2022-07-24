@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="imm"
+version="1"
+displayName="ITVGD Master Mod"
+credits="Thank you, player."
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="ITVGD"
+description='''
+I want for the description is chinese, but i donn't can do. ITVGD Master Mod is a china devloper devlop mod, hava all ITVGD want item and block, you can comment on this mods MCBBS, and Mcmod.cn.
+'''
+
+[[dependencies.imm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
