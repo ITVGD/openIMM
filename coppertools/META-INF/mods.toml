@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="coppertools"
+version="1.0.0"
+displayName="铜制工具"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="ITVGD"
+description='''
+If you see this, sorry, I can't do a chinese version of this text, sorry.
+'''
+
+[[dependencies.coppertools]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

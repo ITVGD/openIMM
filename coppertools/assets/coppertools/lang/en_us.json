@@ -1,0 +1,12 @@
+{
+  "item.coppertools.coppertools_axe": "铜斧",
+  "item.coppertools.coppertools_hoe": "锄子",
+  "item.coppertools.copper_armor_helmet": "铜头盔",
+  "item.coppertools.coppertools_pickaxe": "铜镐",
+  "item.coppertools.coppertools_shovel": "铁锹",
+  "item.coppertools.copper_armor_chestplate": "铜胸甲",
+  "item.coppertools.coppertools_sword": "铜剑",
+  "itemGroup.tabcopper_tools": "铜制工具",
+  "item.coppertools.copper_armor_leggings": "铜护腿",
+  "item.coppertools.copper_armor_boots": "铜靴子"
+}
